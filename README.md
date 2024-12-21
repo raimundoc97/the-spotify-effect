@@ -6,6 +6,7 @@ This project evaluates the impact of technology on music production, specificall
 ## Authors
 - Raimundo Contreras
 - Vedran Razmilic
+- Pablo Acevedo
 
 ## Structure
 The project is organized as follows:
